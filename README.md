@@ -51,6 +51,7 @@ Be The Hero is an application that will connect people who are willing to help N
 - Cors 
 - Knex
 - Jest
+- Celebrate
 
 ### 💻 Preview
 
