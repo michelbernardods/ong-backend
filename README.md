@@ -42,7 +42,15 @@ Be The Hero is an application that will connect people who are willing to help N
 
 #### Muito importante iniciar o Backend primeiro!
 
+## :rocket: Tecnologias 
 
+- Node.js
+- Express
+- Nodemon
+- SqLite
+- Cors 
+- Knex
+- Jest
 
 ### 💻 Preview
 
