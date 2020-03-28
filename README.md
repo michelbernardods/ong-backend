@@ -32,13 +32,11 @@ Be The Hero is an application that will connect people who are willing to help N
 </h5>
 
 ##### Linkedin: https://www.linkedin.com/in/michel-bernardo/
+##### Web: https://github.com/michelbernardods/ong-frontend
 ##### Mobile: https://github.com/michelbernardods/ong-mobile
 
 # Requisitos
 
-
-
-- Para ter acessar o backend da aplicação precisao o repositório: https://github.com/michelbernardods/ong-backend
 - yarn init ou npm install para baixar as dependências
 - yarn start ou npm start 
 
@@ -56,11 +54,3 @@ Be The Hero is an application that will connect people who are willing to help N
 </h1>
 
 
-<h1 align="center">
-    <img alt="Be The Hero" src="https://github.com/michelbernardods/ong-frontend/blob/master/code1.png"    />
-    <img alt="Be The Hero" src="https://github.com/michelbernardods/ong-frontend/blob/master/code2.png"  width="400px"/>
-    <img alt="Be The Hero" src="https://github.com/michelbernardods/ong-frontend/blob/master/code4.png"  width="400px"/>
-    <img alt="Be The Hero" src="https://github.com/michelbernardods/ong-frontend/blob/master/code5.png"  width="400px" />
-    <img alt="Be The Hero" src="https://github.com/michelbernardods/ong-frontend/blob/master/code3.png"  width="400px" />
-   
-</h1>
