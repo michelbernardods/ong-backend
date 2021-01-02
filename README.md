@@ -21,11 +21,7 @@
 </h3>
 
 
-## :rocket: Sobre a Aplicação
-
-
-<h5> 
-Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda organizações  sem fins lucrativos, que muitas vezes precisa de algum valor para tratar algum caso específico,  Esse sistema veio para resolver exatamente isso. </h5>
+## :rocket: About the application
 
 <h5>
 Be The Hero is an application that will connect people who are willing to help Non-governmental non-profit organizations, which often need some value to address a specific case and this system has come to solve just that.
@@ -35,14 +31,14 @@ Be The Hero is an application that will connect people who are willing to help N
 ##### Web: https://github.com/michelbernardods/ong-frontend
 ##### Mobile: https://github.com/michelbernardods/ong-mobile
 
-# Requisitos
+# Requisits
 
 - yarn init ou npm install para baixar as dependências
 - yarn start ou npm start 
 
-#### Muito importante iniciar o Backend primeiro!
+#### Very Important: Start the backend first!
 
-## :rocket: Tecnologias 
+## :rocket: Technologies 
 
 - Node.js
 - Express
